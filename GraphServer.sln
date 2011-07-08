@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libgraph", "libgraph\libgraph.vcxproj", "{AD3DA2BF-4103-4AAB-84FC-1F480C8A388D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GraphTest", "GraphTest\GraphTest.vcxproj", "{21AD6E91-3995-4B15-93BE-B1822C70DE6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD3DA2BF-4103-4AAB-84FC-1F480C8A388D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AD3DA2BF-4103-4AAB-84FC-1F480C8A388D}.Debug|Win32.Build.0 = Debug|Win32
+		{AD3DA2BF-4103-4AAB-84FC-1F480C8A388D}.Release|Win32.ActiveCfg = Release|Win32
+		{AD3DA2BF-4103-4AAB-84FC-1F480C8A388D}.Release|Win32.Build.0 = Release|Win32
+		{21AD6E91-3995-4B15-93BE-B1822C70DE6B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{21AD6E91-3995-4B15-93BE-B1822C70DE6B}.Debug|Win32.Build.0 = Debug|Win32
+		{21AD6E91-3995-4B15-93BE-B1822C70DE6B}.Release|Win32.ActiveCfg = Release|Win32
+		{21AD6E91-3995-4B15-93BE-B1822C70DE6B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
